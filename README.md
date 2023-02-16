@@ -1,5 +1,6 @@
 # What is WCoreMC?
 > This is a Forge edition!
+
 WCore is a plugin developed by WCord Studio, to offer greater security and availability. This offers security for your device, as well as for our agents.
 
 # What information collect WCore?
